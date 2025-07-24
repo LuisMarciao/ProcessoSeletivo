@@ -23,7 +23,7 @@
 
 2. **Clonar o projeto**
    ```bash
-   git clone <seu-repositorio>
+   git clone <ProcessoSeletivo>
    cd projeto-eventos
 3. **Compilar**
    
@@ -52,5 +52,3 @@
 
  Script de criação: create_tabela.sql
 
- ## 🧪 Testes
- (Opcional) Testes unitários podem ser adicionados em /src/test/java.
