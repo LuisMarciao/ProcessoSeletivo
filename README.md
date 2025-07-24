@@ -23,7 +23,7 @@
 
 2. **Clonar o projeto**
    ```bash
-   git clone <ProcessoSeletivo>
+   git clone <https://github.com/LuisMarciao/ProcessoSeletivo.git>
    cd projeto-eventos
 3. **Compilar**
    
